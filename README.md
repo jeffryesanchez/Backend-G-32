@@ -8,3 +8,5 @@ Qué esperas para ser un **gran programador**
 
 Para poder empezar con el primer ejercicio corre el siguiente comando:
 `py empecemos.py`
+
+Muchas gracias con todos!
